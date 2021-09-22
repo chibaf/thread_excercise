@@ -11,7 +11,9 @@ Ref: An Intro to Threading in Python – Real Python https://realpython.com/intr
 
 4. multiple_threads.py: many thread
 
-fixrace.py
+5. executor.py: with statement to manage the creation and destruction of the pool
 
-racecond.py
+6. racecond.py
+
+7. fixrace.py
 
