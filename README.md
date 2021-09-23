@@ -12,5 +12,5 @@ Ref: An Intro to Threading in Python – Real Python https://realpython.com/intr
 7. fixrace.py: Basic Synchronization Using Lock
 8. prodcom_lock_msg.py
 9. prodcom_lock.py
-
-
+10. prodcom_queue.py
+11. prodcom_queue_f.py
