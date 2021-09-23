@@ -10,7 +10,7 @@ Ref: An Intro to Threading in Python – Real Python https://realpython.com/intr
 5. executor.py: with statement to manage the creation and destruction of the pool
 6. racecond.py: race conditions.
 7. fixrace.py: Basic Synchronization Using Lock
-8. python3 prodcom_lock_msg.py
-9. python3 prodcom_lock.py
+8. prodcom_lock_msg.py
+9. prodcom_lock.py
 
 
